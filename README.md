@@ -1,5 +1,6 @@
 <!-- Typing header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hey!+I'm+Ragu+👋;GenAI+Engineer+in+Progress;Exploring+AI+like+a+Samurai+⚔️;Coding+the+Future+一歩ずつ)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hey!+I'm+Ragu+👋;GenAI+Engineer+%7C+LLM+Developer;Building+AI+Tools+that+Think.)](https://git.io/typing-svg)
+
 
 ---
 
