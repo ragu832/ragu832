@@ -6,8 +6,7 @@
 
 ### 🧠 About Me  
 
-👋 Hi, I’m **Ragu** —  
-a **Computer Science** student mixing tech + creativity to build **AI-powered tools** that *actually matter*.  
+👋 Hi, I’m **Ragu** a **Computer Science** student mixing tech + creativity to build **AI-powered tools** that *actually matter*.  
 
 🌸 Currently focused on:  
 - 🧩 **Generative AI & Multi-Agent Systems (LangChain / CrewAI)**  
