@@ -56,7 +56,6 @@ local AI.
 
 ## 🌐 Connect With Me
 
-- 💻 [GitHub](https://github.com/ragu832)
 - 💼 [LinkedIn](YOUR_LINKEDIN)
 
 ---
